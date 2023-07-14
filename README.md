@@ -8,6 +8,8 @@ The main purpose of ICON-A is to demonstrate the use of ARS model to automate ou
 
 ## Contribution
 
+Project owner: Malan Bosman (malanbos@gmail.com)
+
 Contribution is very welcome. When you contribute to this repository you are doing so under the below licenses. Please checkout [Contribution](CONTRIBUTING.md) for additional information. All contributions must adhere to the following [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
