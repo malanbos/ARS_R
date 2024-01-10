@@ -1,10 +1,10 @@
-# ICON-A
+# ARS_R
 
 This repository should be used for the ARS Hackathon to contain code, minutes, notes, outcomes, discussions and more. It is meant to allow anyone working with the results and discussions to allow flexible collaboration and follow up projects.
 
 ## Description
 
-The main purpose of ICON-A is to demonstrate the use of ARS model to automate outputs.
+The main purpose of ARS_R is to demonstrate the use of ARS model to automate outputs.
 
 ## Contribution
 
